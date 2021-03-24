@@ -1,0 +1,2 @@
+# remoterepo
+remote repo1
